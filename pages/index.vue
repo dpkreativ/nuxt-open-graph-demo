@@ -60,14 +60,9 @@ export default {
         },
         {
           hid: 'og:description',
-          name: 'og:descripton',
+          name: 'og:description',
           content:
             'A struggling salesman takes custody of his son as he is poised to begin a life-changing professional career.',
-        },
-        {
-          hid: 'og:url',
-          name: 'og:url',
-          content: '',
         },
       ],
     }
